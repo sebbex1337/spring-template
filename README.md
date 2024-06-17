@@ -17,4 +17,5 @@ Remember to change other names in the pom.xml file if you want to change the nam
 - Spring Data JPA
 - MySQL Driver
 - H2 Database
+- Swagger UI
 
